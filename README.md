@@ -56,3 +56,5 @@ For any questions or support, please contact the SmallTimeDevs team at:
 - Email: support@smalltimedevs.com
 - Website: [SmallTimeDevs.com](https://smalltimedevs.com)
 
+## Small Time Devs Trademark 2025
+
