@@ -13,7 +13,7 @@ This repository serves as the central hub for all documentation related to the A
   - Description: Detailed documentation for the Raydium API used for token trading on the Solana blockchain.
   - Location: [`API/Solana/RaydiumAPI.md`](API/Solana/RaydiumAPI.md)
 
-- **XRP API**
+- **XRPL API**
   - Description: Documentation for API interactions on the XRP ledger.
   - Location: [`API/XRP/README.md`](API/XRP/README.md)
 
