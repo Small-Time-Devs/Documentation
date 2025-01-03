@@ -14,7 +14,7 @@ This repository serves as the central hub for all documentation related to the A
   - Location: [`API/Solana/RaydiumAPI.md`](API/Solana/RaydiumAPI.md)
 
 - **XRPL API**
-  - Description: Documentation for API interactions on the XRP ledger.
+  - Description: Documentation for API interactions on the XRPL ledger.
   - Location: [`API/XRP/README.md`](API/XRP/README.md)
 
 ### 2. **Application Documentation**
